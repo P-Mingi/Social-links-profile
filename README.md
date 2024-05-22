@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [My Solution Site URL](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/664b949f20fb35b1b6634bfc/challenge/refactor))
+- Solution URL: [My Solution Site URL](https://www.frontendmentor.io/solutions/social-links-profile-htmlcss-4bpUdR6FX2)
 - Live Site URL: [My Live Site URL](https://p-mingi.github.io/Social-links-profile/)
 
 
